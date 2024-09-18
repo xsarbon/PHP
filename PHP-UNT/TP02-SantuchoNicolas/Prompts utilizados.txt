@@ -1,0 +1,15 @@
+Ejercicio 02:
+1) Actua como un programador front end profesional y experto en UX/UI para hacer el codigo semántico de una pantalla de inicio hecha con clases de bootstrap, la misma debe ser adaptativa en 4 puntos de quiebre, celulares, tablets, notebooks y escritorio, a su vez debe contar con un menu desplegable, para celulares y tablets el menu debe verse como burguer menu, y para notebook y pc debe verse de forma horizontal
+haz tambien un footer con algunos terminos legales, recuerda dejar el espacio en el body para el main.
+
+2) Tienes demasiados divs, utiliza etiquetas semánticas de html
+
+Ejercio 03:
+Nada...
+
+Ejercicio 04:
+1) Con clases de bootstrap haz una lista desordenada con 2 elementos 
+2) Haz que el texto del elemento 2 sea de color rojo
+
+Ejercicio 05:
+1) Agrega un elemento cuyo texto sea de color verde
